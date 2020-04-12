@@ -6,9 +6,12 @@
 1) Commands in Command Promt:
 
 > cd C:\Users\user\Desktop\babel
-npm init --yes
-npm install -D @babel/core @babel/cli
-npm install @babel/polyfill
+
+> npm init --yes
+
+> npm install -D @babel/core @babel/cli
+
+> npm install @babel/polyfill
 -----------------------------------------------
 2) create .babelrc file in C:\Users\user\Desktop\babel
 -----------------------------------------------
